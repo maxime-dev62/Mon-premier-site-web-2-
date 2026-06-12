@@ -1,0 +1,245 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background: #aadac317;
+    border-bottom: 2px solid #e0e0e0;
+}
+
+.gg{
+    align-items: center;
+    padding: 1rem 2rem;
+    margin: 25px 100px;
+    font-size: 20px;
+    border-radius: 12px;
+    border: 2px solide black;
+    font-size: 20px;
+}
+
+.hj{
+    align-items: center;
+    padding: 1rem 2rem;
+    margin: 25px 100px;
+    font-size: 20px;
+    border-radius: 12px;
+    border: 2px solide black;
+    font-size: 20px;
+}
+
+#nive{
+    font-size:medium;
+    margin: 10px auto;
+    text-align: center;
+    max-width: 1000px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+}
+
+#class{
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+}
+
+nav ul a {
+  text-decoration: none;
+  color: #0a0a0a;
+}
+ 
+#nives{
+    border-radius: 12px;
+    margin: 25px auto;
+    text-align: center;
+    max-width: 800px;
+    background-image:url("../Comment ça marche/p.jpg") ;
+    background-size: cover;
+    background-position: center;
+}
+
+#file{
+    margin: 10px auto;
+    text-align: center;
+    max-width: 750px;
+}
+
+#chi{
+    font-size:medium;
+    margin: 10px auto;
+    text-align: center;
+    max-width: 450px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#cha{
+    font-size:medium;
+    margin: 10px auto;
+    text-align: center;
+    max-width: 450px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#fo{
+    border-left: 5px solid chartreuse;
+     font-size:medium;
+    margin: 10px auto;
+    text-align: center;
+    max-width: 450px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 2px solid #e0e0e0; 
+}
+#fi{
+   border-left: 5px solid chartreuse;
+    font-size:medium;
+    margin: 10px auto;
+    text-align: center;
+    max-width: 450px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 2px solid #e0e0e0; 
+}
+#fa{
+    border-left: 5px solid chartreuse;
+    font-size:medium;
+    margin: 10px auto;
+    text-align: center;
+    max-width: 450px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 2px solid #e0e0e0; 
+}
+
+#fe{
+    border-left: 5px solid chartreuse;
+    font-size:medium;
+    margin: 10px auto;
+    text-align: center;
+    max-width: 450px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 2px solid #e0e0e0;
+}
+
+#fu{
+    border-left: 5px solid chartreuse;
+    font-size:medium;
+    margin: 10px auto;
+    text-align: center;
+    max-width: 450px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 2px solid #e0e0e0;
+}
+
+#fae{
+    border-left: 5px solid chartreuse;
+    font-size:medium;
+    margin: 10px auto;
+    text-align: center;
+    max-width: 450px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 2px solid #e0e0e0;
+}
+
+#go{
+    font-size: medium;
+    margin: 10px auto;
+    text-align: center;
+    max-width: 450px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#ga{
+    font-size: medium;
+    margin: 10px auto;
+    max-width: 1000px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#ji{
+    align-items: center;
+    padding: 1rem 2rem;
+    background: #51575459;
+    margin: 25px 100px;
+    border-radius: 12px;
+    font-size: 20px;
+}
+#ja{
+    align-items:center;
+    padding: 1rem 2rem;
+    background: #51575459;
+    margin: 55px;
+    border-radius: 12px;
+    font-size: 20px;
+}
+
+.win{
+    display: flex;
+    height: auto;
+}
+
+#foo{
+    font-size:medium;
+    margin: 10px auto;
+    text-align: center;
+    max-width: 450px;
+}
+
+.flooter{
+    width: 100%;
+    height: 8px;
+    background-image:url(../gg.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.footer-flag {
+    display: flex;
+    height: 8px;
+    width: 100%;
+}
+
+.flag-vert {
+    background-color: #008751;
+    width: 33.33%;
+}
+
+.flag-jaune {
+    background-color: #FCD116;
+    width: 33.33%;
+}
+
+.flag-rouge {
+    background-color: #E8112D;
+    width: 33.33%;
+}
+
+main{
+ background-image: url(../hg.png);
+ font-family: 'Trebuchet MS', Arial, sans-serif;
+ color: #181818;
+ 
+}
+
+#flog{
+    background:white;
+ font-family: 'Trebuchet MS', Arial, sans-serif;
+ color: #181818;
+}
+
+#fil{
+    margin: 10px auto;
+    text-align: center;
+    max-width: 700px;
+}
+
+#filess{
+    margin: 10px auto;
+    text-align: center;
+    max-width: 700px;
+}
+
+#jui{
+    border-left: 1px solid chartreuse;
+    font-size: 20px;;
+    margin: 15px auto;
+    text-align: center;
+    max-width: 700px;
+}
+
